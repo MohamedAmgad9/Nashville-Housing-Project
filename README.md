@@ -1,3 +1,3 @@
 # Nashville-Housing-Project
 
-In this project, I am using SQL Server to understand, view, clean and prepare the data for the visualization phase.
+In the Nashville Housing Sales Data Cleaning project, I cleaned a public database on Nashville house sales. I used BigQuery to execute queries that standardized dates, populated missing data, split data into new columns, removed duplicates, and removed unnecessary columns.
